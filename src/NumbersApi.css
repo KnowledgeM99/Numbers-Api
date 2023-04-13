@@ -1,0 +1,58 @@
+.NumbersApi {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.NumbersApi h1 {
+  margin-bottom: 20px;
+}
+
+.NumbersApi form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.NumbersApi label {
+  display: block;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.NumbersApi input,
+.NumbersApi select {
+  padding: 8px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.NumbersApi button {
+  padding: 8px 12px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.NumbersApi button:hover {
+  background-color: #0069d9;
+}
+
+.NumbersApi-fact {
+  margin-top: 20px;
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  padding: 20px;
+  text-align: left;
+}
+
+body{
+  background-color: rgb(165, 165, 252);
+}
